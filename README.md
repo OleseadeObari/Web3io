@@ -1,3 +1,4 @@
+The finished hosted github page link: https://oleseadeobari.github.io/Web3io/
 # Frontend Mentor - News homepage
 
 ![Design preview for the News homepage coding challenge](./design/desktop-preview.jpg)
